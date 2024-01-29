@@ -1,0 +1,160 @@
+"Deaths before age 75 from preventable causes per 100,000 population
+"
+"Premature deaths from preventable causes per 100,000 population"
+time_period,state,population,cohort,point_estimate
+2018-19,"United States",all,All,166.3
+2019-20,"United States",all,All,190.8
+2020-21,"United States",all,All,231.9
+2018-19,Alabama,all,All,212.6
+2019-20,Alabama,all,All,241
+2020-21,Alabama,all,All,302.4
+2018-19,Alaska,all,All,193.9
+2019-20,Alaska,all,All,209.4
+2020-21,Alaska,all,All,262.2
+2018-19,Arizona,all,All,173.2
+2019-20,Arizona,all,All,210.4
+2020-21,Arizona,all,All,274.7
+2018-19,Arkansas,all,All,229.3
+2019-20,Arkansas,all,All,259.9
+2020-21,Arkansas,all,All,315.7
+2018-19,California,all,All,133.1
+2019-20,California,all,All,157.3
+2020-21,California,all,All,197.7
+2018-19,Colorado,all,All,148.5
+2019-20,Colorado,all,All,168.9
+2020-21,Colorado,all,All,204.1
+2018-19,Connecticut,all,All,135.9
+2019-20,Connecticut,all,All,162.2
+2020-21,Connecticut,all,All,181.9
+2018-19,Delaware,all,All,184.6
+2019-20,Delaware,all,All,201.5
+2020-21,Delaware,all,All,233.3
+2018-19,"District of Columbia",all,All,212.4
+2019-20,"District of Columbia",all,All,265.4
+2020-21,"District of Columbia",all,All,310.9
+2018-19,Florida,all,All,173.8
+2019-20,Florida,all,All,193.6
+2020-21,Florida,all,All,240.9
+2018-19,Georgia,all,All,171.3
+2019-20,Georgia,all,All,195.9
+2020-21,Georgia,all,All,250.8
+2018-19,Hawaii,all,All,130.2
+2019-20,Hawaii,all,All,135.6
+2020-21,Hawaii,all,All,152
+2018-19,Idaho,all,All,151.3
+2019-20,Idaho,all,All,159.7
+2020-21,Idaho,all,All,199.1
+2018-19,Illinois,all,All,154.5
+2019-20,Illinois,all,All,182.4
+2020-21,Illinois,all,All,211.7
+2018-19,Indiana,all,All,199.5
+2019-20,Indiana,all,All,224.5
+2020-21,Indiana,all,All,267
+2018-19,Iowa,all,All,158.4
+2019-20,Iowa,all,All,179.9
+2020-21,Iowa,all,All,203.2
+2018-19,Kansas,all,All,175.2
+2019-20,Kansas,all,All,196.4
+2020-21,Kansas,all,All,235.4
+2018-19,Kentucky,all,All,238.7
+2019-20,Kentucky,all,All,265.2
+2020-21,Kentucky,all,All,324.8
+2018-19,Louisiana,all,All,214.8
+2019-20,Louisiana,all,All,256.7
+2020-21,Louisiana,all,All,323.4
+2018-19,Maine,all,All,174.3
+2019-20,Maine,all,All,183.1
+2020-21,Maine,all,All,212.3
+2018-19,Maryland,all,All,168
+2019-20,Maryland,all,All,190.6
+2020-21,Maryland,all,All,214
+2018-19,Massachusetts,all,All,136.9
+2019-20,Massachusetts,all,All,149.1
+2020-21,Massachusetts,all,All,162.9
+2018-19,Michigan,all,All,181.8
+2019-20,Michigan,all,All,204.9
+2020-21,Michigan,all,All,244.6
+2018-19,Minnesota,all,All,126.4
+2019-20,Minnesota,all,All,143.1
+2020-21,Minnesota,all,All,169.3
+2018-19,Mississippi,all,All,241.5
+2019-20,Mississippi,all,All,291.4
+2020-21,Mississippi,all,All,363.4
+2018-19,Missouri,all,All,207.3
+2019-20,Missouri,all,All,228.3
+2020-21,Missouri,all,All,269.1
+2018-19,Montana,all,All,174.9
+2019-20,Montana,all,All,200.9
+2020-21,Montana,all,All,245.5
+2018-19,Nebraska,all,All,147.2
+2019-20,Nebraska,all,All,166.2
+2020-21,Nebraska,all,All,189
+2018-19,Nevada,all,All,179.2
+2019-20,Nevada,all,All,206.1
+2020-21,Nevada,all,All,262.4
+2018-19,"New Hampshire",all,All,159.9
+2019-20,"New Hampshire",all,All,157.4
+2020-21,"New Hampshire",all,All,172.5
+2018-19,"New Jersey",all,All,135.4
+2019-20,"New Jersey",all,All,163.7
+2020-21,"New Jersey",all,All,182.3
+2018-19,"New Mexico",all,All,220.6
+2019-20,"New Mexico",all,All,264.6
+2020-21,"New Mexico",all,All,335.1
+2018-19,"New York",all,All,129.1
+2019-20,"New York",all,All,165.4
+2020-21,"New York",all,All,189.6
+2018-19,"North Carolina",all,All,177.9
+2019-20,"North Carolina",all,All,198
+2020-21,"North Carolina",all,All,245.3
+2018-19,"North Dakota",all,All,157.6
+2019-20,"North Dakota",all,All,180.8
+2020-21,"North Dakota",all,All,207.8
+2018-19,Ohio,all,All,201.2
+2019-20,Ohio,all,All,222.3
+2020-21,Ohio,all,All,265.8
+2018-19,Oklahoma,all,All,242.4
+2019-20,Oklahoma,all,All,269.4
+2020-21,Oklahoma,all,All,332.2
+2018-19,Oregon,all,All,153.7
+2019-20,Oregon,all,All,165.6
+2020-21,Oregon,all,All,199.4
+2018-19,Pennsylvania,all,All,169.7
+2019-20,Pennsylvania,all,All,187.1
+2020-21,Pennsylvania,all,All,221.2
+2018-19,"Rhode Island",all,All,153.4
+2019-20,"Rhode Island",all,All,169.6
+2020-21,"Rhode Island",all,All,189.1
+2018-19,"South Carolina",all,All,200.2
+2019-20,"South Carolina",all,All,230.6
+2020-21,"South Carolina",all,All,292.7
+2018-19,"South Dakota",all,All,174.4
+2019-20,"South Dakota",all,All,205.4
+2020-21,"South Dakota",all,All,240.9
+2018-19,Tennessee,all,All,233.4
+2019-20,Tennessee,all,All,265.7
+2020-21,Tennessee,all,All,329.9
+2018-19,Texas,all,All,159.2
+2019-20,Texas,all,All,192.8
+2020-21,Texas,all,All,249.6
+2018-19,Utah,all,All,130.1
+2019-20,Utah,all,All,140.6
+2020-21,Utah,all,All,169.1
+2018-19,Vermont,all,All,161.6
+2019-20,Vermont,all,All,167
+2020-21,Vermont,all,All,183.2
+2018-19,Virginia,all,All,149.2
+2019-20,Virginia,all,All,165.8
+2020-21,Virginia,all,All,199.8
+2018-19,Washington,all,All,144.9
+2019-20,Washington,all,All,155.8
+2020-21,Washington,all,All,185
+2018-19,"West Virginia",all,All,269
+2019-20,"West Virginia",all,All,295
+2020-21,"West Virginia",all,All,364.7
+2018-19,Wisconsin,all,All,152.5
+2019-20,Wisconsin,all,All,173.3
+2020-21,Wisconsin,all,All,199.2
+2018-19,Wyoming,all,All,189.7
+2019-20,Wyoming,all,All,215.2
+2020-21,Wyoming,all,All,269.1
