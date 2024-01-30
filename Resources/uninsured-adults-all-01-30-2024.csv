@@ -1,0 +1,523 @@
+"Uninsured adults ages 19–64"
+"Uninsured adults"
+time_period,state,population,cohort,point_estimate
+2012,"United States",all,All,20.8
+2013,"United States",all,All,20.4
+2014,"United States",all,All,16.3
+2015,"United States",all,All,13.2
+2016,"United States",all,All,12.1
+2017,"United States",all,All,12.2
+2018,"United States",all,All,12.4
+2019,"United States",all,All,12.9
+2020,"United States",all,All,12.4
+2021,"United States",all,All,12.1
+2012,Alabama,all,All,19.9
+2013,Alabama,all,All,20.4
+2014,Alabama,all,All,18.1
+2015,Alabama,all,All,15.7
+2016,Alabama,all,All,14.2
+2017,Alabama,all,All,14.6
+2018,Alabama,all,All,15.6
+2019,Alabama,all,All,14.9
+2020,Alabama,all,All,15
+2021,Alabama,all,All,15.1
+2012,Alaska,all,All,25.7
+2013,Alaska,all,All,23.9
+2014,Alaska,all,All,22.2
+2015,Alaska,all,All,19
+2016,Alaska,all,All,18.2
+2017,Alaska,all,All,18.2
+2018,Alaska,all,All,15.9
+2019,Alaska,all,All,15.3
+2020,Alaska,all,All,15.5
+2021,Alaska,all,All,14.3
+2012,Arizona,all,All,23.5
+2013,Arizona,all,All,23.7
+2014,Arizona,all,All,18.5
+2015,Arizona,all,All,14.8
+2016,Arizona,all,All,13.6
+2017,Arizona,all,All,13.7
+2018,Arizona,all,All,14.6
+2019,Arizona,all,All,15.4
+2020,Arizona,all,All,15.4
+2021,Arizona,all,All,14.6
+2012,Arkansas,all,All,24.7
+2013,Arkansas,all,All,24.2
+2014,Arkansas,all,All,17.7
+2015,Arkansas,all,All,13.5
+2016,Arkansas,all,All,11.7
+2017,Arkansas,all,All,11.6
+2018,Arkansas,all,All,12.3
+2019,Arkansas,all,All,13.1
+2020,Arkansas,all,All,12.7
+2021,Arkansas,all,All,13.2
+2012,California,all,All,24.9
+2013,California,all,All,24
+2014,California,all,All,17.4
+2015,California,all,All,12.1
+2016,California,all,All,10.4
+2017,California,all,All,10.2
+2018,California,all,All,10.1
+2019,California,all,All,11
+2020,California,all,All,10
+2021,California,all,All,9.9
+2012,Colorado,all,All,19.3
+2013,Colorado,all,All,18.5
+2014,Colorado,all,All,14.1
+2015,Colorado,all,All,11
+2016,Colorado,all,All,10.3
+2017,Colorado,all,All,10.2
+2018,Colorado,all,All,10.3
+2019,Colorado,all,All,10.4
+2020,Colorado,all,All,11.3
+2021,Colorado,all,All,10.9
+2012,Connecticut,all,All,13.3
+2013,Connecticut,all,All,13.3
+2014,Connecticut,all,All,9.5
+2015,Connecticut,all,All,8.3
+2016,Connecticut,all,All,6.8
+2017,Connecticut,all,All,7.9
+2018,Connecticut,all,All,7.6
+2019,Connecticut,all,All,8.2
+2020,Connecticut,all,All,6.4
+2021,Connecticut,all,All,7.3
+2012,Delaware,all,All,12.4
+2013,Delaware,all,All,14.2
+2014,Delaware,all,All,10.1
+2015,Delaware,all,All,8
+2016,Delaware,all,All,7.9
+2017,Delaware,all,All,7.8
+2018,Delaware,all,All,8
+2019,Delaware,all,All,9.6
+2020,Delaware,all,All,9.5
+2021,Delaware,all,All,8.5
+2012,"District of Columbia",all,All,7.1
+2013,"District of Columbia",all,All,8.3
+2014,"District of Columbia",all,All,7.1
+2015,"District of Columbia",all,All,4.7
+2016,"District of Columbia",all,All,4.7
+2017,"District of Columbia",all,All,4.7
+2018,"District of Columbia",all,All,4
+2019,"District of Columbia",all,All,4.4
+2020,"District of Columbia",all,All,4.3
+2021,"District of Columbia",all,All,4.3
+2012,Florida,all,All,28.8
+2013,Florida,all,All,28.9
+2014,Florida,all,All,24
+2015,Florida,all,All,19.6
+2016,Florida,all,All,18.5
+2017,Florida,all,All,19
+2018,Florida,all,All,19.3
+2019,Florida,all,All,19.4
+2020,Florida,all,All,18.3
+2021,Florida,all,All,17.9
+2012,Georgia,all,All,25.8
+2013,Georgia,all,All,26
+2014,Georgia,all,All,22.1
+2015,Georgia,all,All,19.3
+2016,Georgia,all,All,18.1
+2017,Georgia,all,All,18.7
+2018,Georgia,all,All,19.1
+2019,Georgia,all,All,18.9
+2020,Georgia,all,All,18.7
+2021,Georgia,all,All,18.2
+2012,Hawaii,all,All,9.4
+2013,Hawaii,all,All,10.2
+2014,Hawaii,all,All,7
+2015,Hawaii,all,All,5.7
+2016,Hawaii,all,All,4.9
+2017,Hawaii,all,All,5.2
+2018,Hawaii,all,All,5.6
+2019,Hawaii,all,All,5.9
+2020,Hawaii,all,All,5.4
+2021,Hawaii,all,All,5.2
+2012,Idaho,all,All,23.3
+2013,Idaho,all,All,23.3
+2014,Idaho,all,All,19.2
+2015,Idaho,all,All,16.5
+2016,Idaho,all,All,15.3
+2017,Idaho,all,All,16.3
+2018,Idaho,all,All,16.4
+2019,Idaho,all,All,15.9
+2020,Idaho,all,All,13.7
+2021,Idaho,all,All,11.8
+2012,Illinois,all,All,19.2
+2013,Illinois,all,All,18.3
+2014,Illinois,all,All,14
+2015,Illinois,all,All,10.2
+2016,Illinois,all,All,9.4
+2017,Illinois,all,All,9.7
+2018,Illinois,all,All,10.1
+2019,Illinois,all,All,10.3
+2020,Illinois,all,All,10.4
+2021,Illinois,all,All,10
+2012,Indiana,all,All,20.2
+2013,Indiana,all,All,19.3
+2014,Indiana,all,All,16.6
+2015,Indiana,all,All,13.1
+2016,Indiana,all,All,10.9
+2017,Indiana,all,All,11.2
+2018,Indiana,all,All,11
+2019,Indiana,all,All,11.6
+2020,Indiana,all,All,9.9
+2021,Indiana,all,All,10
+2012,Iowa,all,All,11.9
+2013,Iowa,all,All,12.4
+2014,Iowa,all,All,8.1
+2015,Iowa,all,All,6.6
+2016,Iowa,all,All,5.8
+2017,Iowa,all,All,6.1
+2018,Iowa,all,All,7
+2019,Iowa,all,All,6.9
+2020,Iowa,all,All,7.2
+2021,Iowa,all,All,6.9
+2012,Kansas,all,All,17.8
+2013,Kansas,all,All,17.5
+2014,Kansas,all,All,14.9
+2015,Kansas,all,All,13.1
+2016,Kansas,all,All,11.9
+2017,Kansas,all,All,12
+2018,Kansas,all,All,12.4
+2019,Kansas,all,All,13.2
+2020,Kansas,all,All,13.3
+2021,Kansas,all,All,13.5
+2012,Kentucky,all,All,19.6
+2013,Kentucky,all,All,21
+2014,Kentucky,all,All,12.5
+2015,Kentucky,all,All,8.2
+2016,Kentucky,all,All,7.1
+2017,Kentucky,all,All,7.4
+2018,Kentucky,all,All,7.8
+2019,Kentucky,all,All,9
+2020,Kentucky,all,All,8
+2021,Kentucky,all,All,7.8
+2012,Louisiana,all,All,24.7
+2013,Louisiana,all,All,24.7
+2014,Louisiana,all,All,21.5
+2015,Louisiana,all,All,18.2
+2016,Louisiana,all,All,15.4
+2017,Louisiana,all,All,12.5
+2018,Louisiana,all,All,11.8
+2019,Louisiana,all,All,13
+2020,Louisiana,all,All,12
+2021,Louisiana,all,All,11
+2012,Maine,all,All,15.1
+2013,Maine,all,All,16.1
+2014,Maine,all,All,13.7
+2015,Maine,all,All,11.8
+2016,Maine,all,All,11.2
+2017,Maine,all,All,11.6
+2018,Maine,all,All,11.3
+2019,Maine,all,All,11.4
+2020,Maine,all,All,10.8
+2021,Maine,all,All,8
+2012,Maryland,all,All,14.4
+2013,Maryland,all,All,14
+2014,Maryland,all,All,11.1
+2015,Maryland,all,All,8.9
+2016,Maryland,all,All,8.3
+2017,Maryland,all,All,8.2
+2018,Maryland,all,All,8.3
+2019,Maryland,all,All,8.3
+2020,Maryland,all,All,8
+2021,Maryland,all,All,8.2
+2012,Massachusetts,all,All,5.6
+2013,Massachusetts,all,All,5.4
+2014,Massachusetts,all,All,4.6
+2015,Massachusetts,all,All,4
+2016,Massachusetts,all,All,3.5
+2017,Massachusetts,all,All,3.8
+2018,Massachusetts,all,All,3.9
+2019,Massachusetts,all,All,4.3
+2020,Massachusetts,all,All,3.6
+2021,Massachusetts,all,All,3.4
+2012,Michigan,all,All,17
+2013,Michigan,all,All,16.1
+2014,Michigan,all,All,12.2
+2015,Michigan,all,All,8.6
+2016,Michigan,all,All,7.5
+2017,Michigan,all,All,7.3
+2018,Michigan,all,All,7.7
+2019,Michigan,all,All,8.3
+2020,Michigan,all,All,7.8
+2021,Michigan,all,All,7.3
+2012,Minnesota,all,All,10.9
+2013,Minnesota,all,All,10.8
+2014,Minnesota,all,All,8.2
+2015,Minnesota,all,All,6
+2016,Minnesota,all,All,5.7
+2017,Minnesota,all,All,6
+2018,Minnesota,all,All,5.6
+2019,Minnesota,all,All,6.6
+2020,Minnesota,all,All,6.9
+2021,Minnesota,all,All,5.8
+2012,Mississippi,all,All,25.2
+2013,Mississippi,all,All,24.9
+2014,Mississippi,all,All,21.7
+2015,Mississippi,all,All,19.2
+2016,Mississippi,all,All,17.8
+2017,Mississippi,all,All,18.3
+2018,Mississippi,all,All,18.6
+2019,Mississippi,all,All,19.5
+2020,Mississippi,all,All,17.4
+2021,Mississippi,all,All,17.7
+2012,Missouri,all,All,19.5
+2013,Missouri,all,All,18.3
+2014,Missouri,all,All,16.1
+2015,Missouri,all,All,13.4
+2016,Missouri,all,All,12.7
+2017,Missouri,all,All,13
+2018,Missouri,all,All,13.5
+2019,Missouri,all,All,14.3
+2020,Missouri,all,All,14.3
+2021,Missouri,all,All,13.4
+2012,Montana,all,All,25.2
+2013,Montana,all,All,23.3
+2014,Montana,all,All,19.1
+2015,Montana,all,All,16.3
+2016,Montana,all,All,12.2
+2017,Montana,all,All,12.6
+2018,Montana,all,All,11.8
+2019,Montana,all,All,11.7
+2020,Montana,all,All,11.8
+2021,Montana,all,All,10.6
+2012,Nebraska,all,All,15.8
+2013,Nebraska,all,All,15
+2014,Nebraska,all,All,13.3
+2015,Nebraska,all,All,10.9
+2016,Nebraska,all,All,12.2
+2017,Nebraska,all,All,11.8
+2018,Nebraska,all,All,11.6
+2019,Nebraska,all,All,11.3
+2020,Nebraska,all,All,11.4
+2021,Nebraska,all,All,9.5
+2012,Nevada,all,All,28.4
+2013,Nevada,all,All,27.2
+2014,Nevada,all,All,20.5
+2015,Nevada,all,All,16.5
+2016,Nevada,all,All,15.4
+2017,Nevada,all,All,15.1
+2018,Nevada,all,All,15.2
+2019,Nevada,all,All,15.7
+2020,Nevada,all,All,16.1
+2021,Nevada,all,All,15.3
+2012,"New Hampshire",all,All,15.8
+2013,"New Hampshire",all,All,15.7
+2014,"New Hampshire",all,All,12.8
+2015,"New Hampshire",all,All,9.6
+2016,"New Hampshire",all,All,9
+2017,"New Hampshire",all,All,8.1
+2018,"New Hampshire",all,All,7.7
+2019,"New Hampshire",all,All,8.9
+2020,"New Hampshire",all,All,8.9
+2021,"New Hampshire",all,All,6.6
+2012,"New Jersey",all,All,18.1
+2013,"New Jersey",all,All,18.9
+2014,"New Jersey",all,All,15.6
+2015,"New Jersey",all,All,12.4
+2016,"New Jersey",all,All,11
+2017,"New Jersey",all,All,10.8
+2018,"New Jersey",all,All,10.4
+2019,"New Jersey",all,All,11.2
+2020,"New Jersey",all,All,10.5
+2021,"New Jersey",all,All,10.2
+2012,"New Mexico",all,All,27.5
+2013,"New Mexico",all,All,27.9
+2014,"New Mexico",all,All,21.2
+2015,"New Mexico",all,All,16.2
+2016,"New Mexico",all,All,12.7
+2017,"New Mexico",all,All,13.4
+2018,"New Mexico",all,All,13.6
+2019,"New Mexico",all,All,14.5
+2020,"New Mexico",all,All,13.7
+2021,"New Mexico",all,All,14.2
+2012,"New York",all,All,15.6
+2013,"New York",all,All,15.4
+2014,"New York",all,All,12.2
+2015,"New York",all,All,10.1
+2016,"New York",all,All,8.5
+2017,"New York",all,All,8.1
+2018,"New York",all,All,7.5
+2019,"New York",all,All,7.5
+2020,"New York",all,All,7.4
+2021,"New York",all,All,7.4
+2012,"North Carolina",all,All,23.6
+2013,"North Carolina",all,All,22.7
+2014,"North Carolina",all,All,19.2
+2015,"North Carolina",all,All,16.5
+2016,"North Carolina",all,All,15.3
+2017,"North Carolina",all,All,15.7
+2018,"North Carolina",all,All,15.7
+2019,"North Carolina",all,All,16.5
+2020,"North Carolina",all,All,15.7
+2021,"North Carolina",all,All,15
+2012,"North Dakota",all,All,14.3
+2013,"North Dakota",all,All,13.6
+2014,"North Dakota",all,All,10.2
+2015,"North Dakota",all,All,9.5
+2016,"North Dakota",all,All,9
+2017,"North Dakota",all,All,9.4
+2018,"North Dakota",all,All,9.9
+2019,"North Dakota",all,All,8.6
+2020,"North Dakota",all,All,9
+2021,"North Dakota",all,All,9.7
+2012,Ohio,all,All,16.5
+2013,Ohio,all,All,15.8
+2014,Ohio,all,All,11.6
+2015,Ohio,all,All,8.8
+2016,Ohio,all,All,7.7
+2017,Ohio,all,All,7.9
+2018,Ohio,all,All,8.8
+2019,Ohio,all,All,9.2
+2020,Ohio,all,All,9.3
+2021,Ohio,all,All,8.8
+2012,Oklahoma,all,All,25.7
+2013,Oklahoma,all,All,24.5
+2014,Oklahoma,all,All,21.4
+2015,Oklahoma,all,All,20.1
+2016,Oklahoma,all,All,19.9
+2017,Oklahoma,all,All,20.2
+2018,Oklahoma,all,All,19.6
+2019,Oklahoma,all,All,21.5
+2020,Oklahoma,all,All,21.7
+2021,Oklahoma,all,All,20.2
+2012,Oregon,all,All,21.1
+2013,Oregon,all,All,21.4
+2014,Oregon,all,All,14.1
+2015,Oregon,all,All,10
+2016,Oregon,all,All,8.7
+2017,Oregon,all,All,9.8
+2018,Oregon,all,All,10.4
+2019,Oregon,all,All,10.1
+2020,Oregon,all,All,9.4
+2021,Oregon,all,All,8.8
+2012,Pennsylvania,all,All,13.6
+2013,Pennsylvania,all,All,13.6
+2014,Pennsylvania,all,All,11.8
+2015,Pennsylvania,all,All,8.7
+2016,Pennsylvania,all,All,7.7
+2017,Pennsylvania,all,All,7.3
+2018,Pennsylvania,all,All,7.6
+2019,Pennsylvania,all,All,7.8
+2020,Pennsylvania,all,All,8.2
+2021,Pennsylvania,all,All,7.4
+2012,"Rhode Island",all,All,16
+2013,"Rhode Island",all,All,16.6
+2014,"Rhode Island",all,All,10
+2015,"Rhode Island",all,All,7
+2016,"Rhode Island",all,All,6
+2017,"Rhode Island",all,All,6.4
+2018,"Rhode Island",all,All,5.7
+2019,"Rhode Island",all,All,6
+2020,"Rhode Island",all,All,5
+2021,"Rhode Island",all,All,6.1
+2012,"South Carolina",all,All,23.8
+2013,"South Carolina",all,All,22.8
+2014,"South Carolina",all,All,20.1
+2015,"South Carolina",all,All,16.1
+2016,"South Carolina",all,All,14.9
+2017,"South Carolina",all,All,16.5
+2018,"South Carolina",all,All,15.8
+2019,"South Carolina",all,All,15.9
+2020,"South Carolina",all,All,15.5
+2021,"South Carolina",all,All,14.9
+2012,"South Dakota",all,All,15.9
+2013,"South Dakota",all,All,17.4
+2014,"South Dakota",all,All,13.4
+2015,"South Dakota",all,All,15.5
+2016,"South Dakota",all,All,12
+2017,"South Dakota",all,All,12.9
+2018,"South Dakota",all,All,13.4
+2019,"South Dakota",all,All,13.6
+2020,"South Dakota",all,All,14.2
+2021,"South Dakota",all,All,12.8
+2012,Tennessee,all,All,20.2
+2013,Tennessee,all,All,20.3
+2014,Tennessee,all,All,17.3
+2015,Tennessee,all,All,15
+2016,Tennessee,all,All,13.5
+2017,Tennessee,all,All,13.7
+2018,Tennessee,all,All,14.8
+2019,Tennessee,all,All,14.8
+2020,Tennessee,all,All,14.6
+2021,Tennessee,all,All,14.8
+2012,Texas,all,All,30.5
+2013,Texas,all,All,29.8
+2014,Texas,all,All,25.7
+2015,Texas,all,All,23.2
+2016,Texas,all,All,22.8
+2017,Texas,all,All,23.6
+2018,Texas,all,All,23.9
+2019,Texas,all,All,24.5
+2020,Texas,all,All,23.6
+2021,Texas,all,All,24.3
+2012,Utah,all,All,18.4
+2013,Utah,all,All,17.8
+2014,Utah,all,All,16.1
+2015,Utah,all,All,14
+2016,Utah,all,All,11.6
+2017,Utah,all,All,11.8
+2018,Utah,all,All,11.6
+2019,Utah,all,All,12.1
+2020,Utah,all,All,10.8
+2021,Utah,all,All,11.3
+2012,Vermont,all,All,9.3
+2013,Vermont,all,All,9.8
+2014,Vermont,all,All,6.9
+2015,Vermont,all,All,6.2
+2016,Vermont,all,All,5.3
+2017,Vermont,all,All,6.2
+2018,Vermont,all,All,5.5
+2019,Vermont,all,All,6.7
+2020,Vermont,all,All,6.5
+2021,Vermont,all,All,5
+2012,Virginia,all,All,17.4
+2013,Virginia,all,All,17.3
+2014,Virginia,all,All,14.8
+2015,Virginia,all,All,12.9
+2016,Virginia,all,All,12.2
+2017,Virginia,all,All,12.3
+2018,Virginia,all,All,12.2
+2019,Virginia,all,All,11.1
+2020,Virginia,all,All,10.1
+2021,Virginia,all,All,9.4
+2012,Washington,all,All,19.5
+2013,Washington,all,All,19.9
+2014,Washington,all,All,12.8
+2015,Washington,all,All,9.3
+2016,Washington,all,All,8.5
+2017,Washington,all,All,8.7
+2018,Washington,all,All,9.5
+2019,Washington,all,All,9.4
+2020,Washington,all,All,9.2
+2021,Washington,all,All,9.2
+2012,"West Virginia",all,All,21.4
+2013,"West Virginia",all,All,20.3
+2014,"West Virginia",all,All,13.4
+2015,"West Virginia",all,All,8.1
+2016,"West Virginia",all,All,7.5
+2017,"West Virginia",all,All,8.7
+2018,"West Virginia",all,All,9.3
+2019,"West Virginia",all,All,9.9
+2020,"West Virginia",all,All,10.6
+2021,"West Virginia",all,All,9.2
+2012,Wisconsin,all,All,12.9
+2013,Wisconsin,all,All,12.7
+2014,Wisconsin,all,All,10.1
+2015,Wisconsin,all,All,7.9
+2016,Wisconsin,all,All,7.2
+2017,Wisconsin,all,All,6.9
+2018,Wisconsin,all,All,7.6
+2019,Wisconsin,all,All,8.1
+2020,Wisconsin,all,All,7.6
+2021,Wisconsin,all,All,7.2
+2012,Wyoming,all,All,21.6
+2013,Wyoming,all,All,17.9
+2014,Wyoming,all,All,17
+2015,Wyoming,all,All,14.2
+2016,Wyoming,all,All,14.8
+2017,Wyoming,all,All,16.4
+2018,Wyoming,all,All,14.8
+2019,Wyoming,all,All,16.8
+2020,Wyoming,all,All,16.4
+2021,Wyoming,all,All,15.5
