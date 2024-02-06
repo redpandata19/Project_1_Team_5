@@ -14,10 +14,28 @@ Questions to answer:
 -What are the Top and Worst 5 state rankings?
 
 Data Collection: 
+Datasets used: https://github.com/redpandata19/Project_1_Team_5/tree/main/Resources
+Our Source: The Commonwealth Fund 
 Data collected from: CDC National Vital Statistics System (NVSS)
-Source: The Commonwealth Fund 
+https://www.commonwealthfund.org/datacenter/uninsured-adults?performance_area=9366
+https://www.commonwealthfund.org/datacenter/adults-usual-source-care
+https://www.commonwealthfund.org/datacenter/premature-avoidable-deaths-100000-population?performance_area=9371
+https://www.commonwealthfund.org/datacenter/premature-deaths-preventable-causes-100000-population?performance_area=9371
+https://www.commonwealthfund.org/datacenter/premature-deaths-treatable-causes-100000-population?performance_area=9371
 
-Datasets used: 
+
+Data Cleanup: 
+https://github.com/redpandata19/Project_1_Team_5/blob/main/Data_Cleanup.ipynb
+
+Data Analysis: 
+https://github.com/redpandata19/Project_1_Team_5/blob/main/Data_Analysis.ipynb
+
+Presentation: 
+https://github.com/redpandata19/Project_1_Team_5/blob/main/Project%201%20Group%205%20slides.pptx
+
+Conclusion:
+
+
 
 
 
