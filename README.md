@@ -31,7 +31,7 @@ Data Analysis:
 https://github.com/redpandata19/Project_1_Team_5/blob/main/Data_Analysis.ipynb
 
 Presentation: 
-https://github.com/redpandata19/Project_1_Team_5/blob/main/Project%201%20Group%205%20slides.pptx
+https://github.com/redpandata19/Project_1_Team_5/blob/main/Project_1_Team_5_FC.pptx
 
 Conclusion:
 1. Lower percentage of uninsured adults correlated with fewer avoidable, treatable, and preventable deaths per state.
