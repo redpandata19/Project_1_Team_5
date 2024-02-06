@@ -39,16 +39,22 @@ Conclusion:
 2. Negative correlation (-0.69) between uninsured adults and not having a primary care provider
       Emphasizes the positive impact  of health insurance on seeking preventative medical care
 3. Identified two states with trending positive healthcare outcomes, and three states trending negative healthcare outcomes.
+      Best: Massachusetts, Minnesota | Worst: Mississippi, Oklahoma, West Virginia
       Starting point for expansion into different factors influencing the states positive or negative healthcare outcomes
 
 Limitations
-The analysis is based on data from 2018-2019, which represents a relatively short time frame and does not provide the opportunity to analyze long-term trends. 
+-The analysis is based on data from 2018-2019, which represents a relatively short time frame and does not include trend analysis over time. 
+-Does not reflect changes since covid pandemic.
+-Having a primary care provider does not equal regular doctor visits
+-The uninsured correlations only included adults, not uninsured children
+
 
 The correlations did not include uninsured children.
 
 What would we do differently? 
 -Combined the children and adults data sets for uninsured and compared adult-only, child-only, and the combination.
--Limited the premature death factor to 1 data set and instead explored additional factors. 
+-Limit the premature death factor to 1 data set and instead explored additional factors.
+
 
 
 
