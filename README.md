@@ -4,7 +4,7 @@ Project Title: Health Outcomes Across States: Evaluating the Impact of Insurance
 
 Goal: Our project aims to show the impact of health insurance on receiving care and overall health outcomes at the state level for the years of 2018-2019.
 
-Relation to Healthcare Industry:
+Relation to Healthcare Industry :
 Premature mortality can explain relationship between the health and wealth of nations, healthcare accounts for 10 percent of gross domestic product (GDP) of most developed nations. 
 In a well-functioning health system, premature deaths (under the age of 75 years) can often be avoided through public health interventions and quality medical care. Our focus is on whether health insurance acts as a gateway to preventative care services that reduce premature mortality.
 
