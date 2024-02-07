@@ -51,7 +51,7 @@ Limitations
 
 The correlations did not include uninsured children.
 
-What would we do differently? 
+What would we do differently?  
 -Combined the children and adults data sets for uninsured and compared adult-only, child-only, and the combination.
 -Limit the premature death factor to 1 data set and instead explored additional factors.
 
